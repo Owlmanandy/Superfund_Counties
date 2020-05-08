@@ -5,8 +5,8 @@ The following should serve as a rough README.  It is copied from the code itself
 There is further documentation within the ArcMap Tool Help section, which can be accessed by downloading the Toolbox.
 
 #-------------------------------------------------------------------------------
-# A Tool for Determining the Economic and Ecologic Vulnerability of US Counties
-# Created by Andy Sima on May 7th, 2020
+A Tool for Determining the Economic and Ecologic Vulnerability of US Counties
+Created by Andy Sima on May 7th, 2020
 # 
 # A GEOG380 Project for Dr. Kashem at
 # the University of Illinois Urbana-Champaign
