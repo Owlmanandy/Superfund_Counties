@@ -4,6 +4,8 @@ An ArcMap tool designed to work with the American Community Survey Demographic D
 The following should serve as a rough README.  It is copied from the code itself.
 There is further documentation within the ArcMap Tool Help section, which can be accessed by downloading the Toolbox.
 
+Of course, the toolbox download only contains the skeleton for the tool; you'll have to download and import the actual python code to get the tool to work.
+
 #-------------------------------------------------------------------------------
 
 A Tool for Determining the Economic and Ecologic Vulnerability of US Counties.  Created by Andy Sima on May 7th, 2020
