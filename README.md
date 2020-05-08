@@ -40,14 +40,25 @@ Another possible add-on would be the inclusion of a ranking system that takes in
 #------------------------------------------------------------------------------
 
 Parameters:
+
 0 - workspace - the filepath to the location where your shapefiles will be saved(workspace)
+
 1 - SFsites - the filepath to the GEODATABASE containing superfund or other hazardous sites(feature class)
+
 2 - county - the filepath to the GEODATABASE with the polygons and tables of US counties(feature class)
+
 3 - table - the demographic file (i.e. X17_POVERTY) to be joined to county(table)
+
 4 - code1 - the ACS code for the numerator (i.e. population impoverished)(str)
+
 5 - code2 - the ACS code for the denominator (i.e. total population)(str)(optional)
+
 6 - code3 - the ACS code for a third field(str)(optional)
+
 7 - operand - the term for evaluating the EVAL field(i.e. / for two terms divide, + to add terms)(str)(optional)
+
 8 - compare - the term for comparing the fields (i.e. > for above threshold, < for below)(str)
+
 9 - value - the threshold (i.e. percentage) for how to classify counties(i.e. 25.0% impoverished)(str)
+
 10 - search - the distance (with units) to search for nearby superfund sites(str)
